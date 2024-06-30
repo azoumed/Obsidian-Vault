@@ -4,18 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "c6b7853b0c6cfe66",
+        "id": "15babf1545dbce17",
         "type": "tabs",
         "children": [
           {
-            "id": "15c968118f0f1f8d",
+            "id": "ab4c3fa9a49d297d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "93666eae3283267a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 9.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled 9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Untitled 9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Untitled 9.md"
+              }
             }
           },
           {
@@ -147,11 +168,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ce1cec1082b64a65",
+  "active": "93666eae3283267a",
   "lastOpenFiles": [
+    "Untitled 1.md",
+    "Untitled 9.md",
+    "Untitled 7.md",
+    "Untitled 6.md",
+    "Untitled 5.md",
+    "Untitled 4.md",
+    "Untitled 3.md",
+    "Untitled 8.md",
+    "Untitled 2.md",
+    "Untitled.md",
     "Azouz",
     "push to git remote.md",
-    "Untitled.md",
     "Doctorat workflow.md",
     "Doctorat cadrage.md"
   ]
