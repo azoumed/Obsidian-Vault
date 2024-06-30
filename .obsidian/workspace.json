@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1eae8e1788a64984",
+        "id": "c6b7853b0c6cfe66",
         "type": "tabs",
         "children": [
           {
-            "id": "240a0fadafadcbf4",
+            "id": "15c968118f0f1f8d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -147,11 +147,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8ee55bc8276315e4",
+  "active": "ce1cec1082b64a65",
   "lastOpenFiles": [
+    "Azouz",
+    "push to git remote.md",
     "Untitled.md",
     "Doctorat workflow.md",
-    "Doctorat cadrage.md",
-    "push to git remote.md"
+    "Doctorat cadrage.md"
   ]
 }
