@@ -4,34 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "15babf1545dbce17",
+        "id": "936d3eabaf25ebc3",
         "type": "tabs",
         "children": [
           {
-            "id": "ab4c3fa9a49d297d",
+            "id": "6ffd28f20f2cb6fc",
             "type": "leaf",
             "state": {
               "type": "diff-view",
               "state": {
-                "file": "Untitled 1.md",
+                "file": ".obsidian/workspace.json",
                 "staged": true
               }
             }
-          },
-          {
-            "id": "5192967c33ff1a18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Test commit.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test commit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test commit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Test commit.md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,8 +150,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5192967c33ff1a18",
+  "active": "6ffd28f20f2cb6fc",
   "lastOpenFiles": [
+    "Plan de thèse.md",
+    "Mes publications scientifiques.md",
+    "Mes recherches bibliographique.md",
+    "Mes travaux de Recherche.md",
+    "Doctorat cadrage.md",
+    "Doctorat rédaction.md",
+    "Azouz/Untitled.md",
     "Test commit.md",
     "Untitled 9.md",
     "Untitled 1.md",
@@ -179,10 +169,8 @@
     "Untitled 3.md",
     "Untitled 8.md",
     "Untitled 2.md",
-    "Azouz/Untitled.md",
     "Azouz",
     "push to git remote.md",
-    "Doctorat workflow.md",
-    "Doctorat cadrage.md"
+    "Doctorat workflow.md"
   ]
 }
