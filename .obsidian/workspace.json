@@ -8,17 +8,127 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6ffd28f20f2cb6fc",
+            "id": "dd55698f954cbe67",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": true
+                "file": "Plan de thèse/Planthèse.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6229f50cdd757163",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Plan de thèse/Planthèse.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8e36363c6adcb104",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Plan de thèse/Planthèse.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "63b4a64ffe99e369",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Plan de thèse/4. Problématique et méthodologie.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "30e3fee800401385",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Plan de thèse/Planthèse.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b96ae3195ff07bef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Plan de thèse/Planthèse.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "94674df8bf9d4ecb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Plan de thèse/Planthèse.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c6de2642b2b88ea0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Plan de thèse/4. Problématique et méthodologie.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c1aad7f4f9b2b02a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Proposition PT/PT 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5545edfafc98cfb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Proposition PT/PT 1.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -68,7 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 254.5
   },
   "right": {
     "id": "465de8d8d789967c",
@@ -84,6 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Proposition PT/PT 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Proposition PT/PT 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +233,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Proposition PT/PT 1.md"
+              }
             }
           },
           {
@@ -137,7 +251,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -150,27 +264,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6ffd28f20f2cb6fc",
+  "active": "5545edfafc98cfb3",
   "lastOpenFiles": [
-    "Plan de thèse.md",
+    "Test commit.md",
+    "Proposition PT/PT 1.md",
+    "push to git remote.md",
+    "Plan de thèse/2. Introduction.md",
+    "Plan de thèse/1. Premières pages.md",
+    "Proposition PT/PT 2.md",
+    "Plan de thèse/4. Problématique et méthodologie.md",
+    "Proposition PT",
+    "Plan de thèse/5. Analyse des résultats de recherches.md",
+    "Plan de thèse/6. Conclusion.md",
+    "Plan de thèse/7. Bibliographie.md",
+    "Plan de thèse/8. Annexes.md",
+    "Plan de thèse/Planthèse.md",
+    "Plan de thèse/3. Domaine de recherche.md",
+    "Azouz/Untitled.md",
     "Mes publications scientifiques.md",
+    "Doctorat workflow.md",
+    "Doctorat rédaction.md",
+    "Doctorat cadrage.md",
     "Mes recherches bibliographique.md",
     "Mes travaux de Recherche.md",
-    "Doctorat cadrage.md",
-    "Doctorat rédaction.md",
-    "Azouz/Untitled.md",
-    "Test commit.md",
     "Untitled 9.md",
-    "Untitled 1.md",
     "Untitled 7.md",
     "Azouz/Untitled 6.md",
     "Untitled 5.md",
     "Untitled 4.md",
     "Untitled 3.md",
-    "Untitled 8.md",
-    "Untitled 2.md",
-    "Azouz",
-    "push to git remote.md",
-    "Doctorat workflow.md"
+    "Plan de thèse"
   ]
 }

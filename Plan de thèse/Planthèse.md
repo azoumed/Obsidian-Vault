@@ -1,8 +1,4 @@
-Plan de Thèse de Doctorat - Exemple pour la Rédaction
-
-https://www.scribbr.fr/these-doctorat/plan/
-
-Voici un plan pour la rédaction de votre [thèse de doctorat](https://www.scribbr.fr/category/these-doctorat/). Ce plan de thèse de doctorat vous indique la méthodologie à suivre pour la rédaction de votre thèse.
+	https://www.scribbr.fr/these-doctorat/plan/
 
 ### Les parties du plan d’une thèse de doctorat
 
@@ -14,9 +10,6 @@ Voici un plan pour la rédaction de votre [thèse de doctorat](https://www.scri
 6. [Conclusion](https://www.scribbr.fr/these-doctorat/conclusion-these/).
 7. [Bibliographie](https://www.scribbr.fr/citation-des-sources/une-bibliographie/).
 8. Annexes.
-
-**Bon plan**  
-Scribbr s’occupe de la [relecture et correction de votre thèse !](https://www.scribbr.fr/relecture-correction/these-de-doctorat/) Nous corrigeons les fautes et le style.
 
 ## Plan d’une thèse de doctorat
 
@@ -33,3 +26,4 @@ Les titres de vos chapitres (et sous-sections) doivent être apparents, afin de 
 | [Discussion et conclusion](https://www.scribbr.fr/these-doctorat/conclusion-these/)               | - Synthèse générale.<br>- Réponse à la question de recherche.<br>- Interprétation et confrontation aux autres travaux de recherche.<br>- Ouverture, limites et perspectives pour de nouvelles recherches, applications.                                                                                                                                                                                                                                                                                                                                                                                                                                          | 10 – 30 pages  |
 | [Bibliographie](https://www.scribbr.fr/normes-apa/classer-la-bibliographie-selon-les-normes-apa/) | - Française et étrangère.<br>- 50% des sources ont moins de 5 ans.<br>- 50% des sources sont en français maximum.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | 8 – 12 pages   |
 | [Annexes](https://www.scribbr.fr/mise-en-page/annexes-sur-word/)                                  | - Internes au manuscrit : index, table des figures et schémas, glossaire.<br>- Externes au manuscrit : matériel utilisé pour les démonstrations (entretiens, documents statistiques…).                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                |
+
